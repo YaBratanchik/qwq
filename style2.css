@@ -1,6 +1,8 @@
 body {
     font-family: sans-serif;
     background-color: #def8ff;
+    background-image: url(https://learn.algoritmika.org/uploads/student/1268071/6468dc015b8b7.png);
+    height: 100px;
 }
 
 .orange {
@@ -53,9 +55,36 @@ h2 {
     color: #FE982A;
 }
 
-a {
-    width: 100px;
+.chert {
+    text-align: center;
+    font-size: 35px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.kolbasa {
+    background-color: #005236;
+    padding-right: 200px;
+    padding-left: 200px;
+    font-size: 35px;
+    
+
+}
+
+.dogs{
+    margin-top: 75px;
+}
+
+.what {
+    margin-top: 50px;
     text-align: center;
 }
 
+.tech{
+      margin-top: 75px;
+      float: right;
+}
 
+.wensdey {
+    margin-top:190px;
+}
