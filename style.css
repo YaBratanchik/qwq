@@ -1,0 +1,66 @@
+body {
+    font-family: sans;
+    background-color: #def8ff;
+}
+.orange {
+    width: 100vw;
+
+}
+
+nav{
+
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 5vw;
+}
+
+a {
+    color: white;
+    background-color: #BC4F07;
+    padding: 10px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #005236;
+    color: white;
+    border-radius: 20px;
+    margin-top: 10px;
+    width: 200px;
+    padding: 45px;
+    position: absolute;
+    left: 29vw;
+    font-size: 40px;
+}
+
+.figura {
+    width: 50vw;
+    top: 35vw;
+    position: absolute;
+}
+
+.kartofel {
+    width: 37vw;
+    float: right;
+ }
+
+ .sss {
+    position: absolute;
+    width: 20vw;
+    left: 20px;
+    top: 90px;
+ }
+
+.strelka {
+    position: absolute;
+    width: 23vw;
+    right: 200px;
+    top: 90px;
+ }
